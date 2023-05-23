@@ -1,0 +1,295 @@
+﻿StoreKey,Continent,Country,State/Province,Type,Name,Status,Phone,Fax,Address,Employee
+254,Asia,Armenia,Armenia,Store,Contoso Yerevan Store,On,919-555-0140,919-555-0140,"Amiryan Street Yerevan,  Armenia",15
+252,Asia,Australia,Molonglo,Store,Contoso Canberra Store,On,413-555-0124,413-555-0124,"Canberra International shopping mall, Australia",28
+253,Asia,Australia,New South Wales,Store,Contoso Sydney No.1 Store,On,203-555-0196,203-555-0196,"Sydney Citycenter, Australia",20
+300,Asia,Australia,New South Wales,Store,Contoso Sydney  No.2 Store,On,1 (11) 500 555-,1 (11) 500 555," PT St Sydney, Australia",95
+258,Asia,Bhutan,Thimphu District,Store,Contoso Thimphu No.1 Store,On,295-555-0161,295-555-0161,"Citycenter, Thimphu, Bhutan",35
+292,Asia,Bhutan,Thimphu District,Store,Contoso Thimphu No.2 Store,On,185-555-0169,185-555-0169,"Clock Tower Shooping mall, Thimphu, Bhutan",95
+278,Asia,China,Xinjiang,Store,Contoso Urumqi Store,On,970-555-0138,970-555-0138,"Ulaanbaatar, Ulaanbaatar Mongolia",50
+277,Asia,China,Shanghai,Store,Contoso Shanghai No.1 Store,On,708-555-0141,708-555-0141,"China Shanghai, Jiading Distrct Yongguang Rd",95
+281,Asia,China,Shanghai,Store,Contoso Shanghai No.2 Store,On,716-555-0127,716-555-0127,"China Shanghai, Jiading Distrct Yongguang Rd",95
+279,Asia,China,Beijing,Store,Contoso Beijing Store,On,486-555-0150,486-555-0150,China Beijing Chaoyang distrct Shanlitun Rd,86
+310,Asia,China,Beijing,Reseller,Contoso Asia Reseller,On,55-555-0120,55-555-0120,Beijing Shopping Mall,17
+307,Asia,China,Beijing,Online,Contoso Asia Online Store,On,55-555-0117,55-555-0117,China Beijing Chaoyang distrct Shanlitun Rd,8
+280,Asia,China,GuangDong,Store,Contoso Guangzhou Store,On,124-555-0114,124-555-0114,"China Guangzhou, Guangdong Tianhe Distrct ",131
+293,Asia,China,Hong Kong,Store,Contoso Hong Kong No.2 Store,On,740-555-0182,740-555-0182,"Hong Kong, Kowloon Shopping mall",95
+259,Asia,China,Hong Kong,Store,Contoso Hong Kong No.1 Store,On,500-555-0172,500-555-0172,"Hong Kong,  New Town Plaza‎ ",35
+256,Asia,India,Maharashtra,Store,Contoso Mumbai Store,On,425-555-0117,425-555-0117,"Mumbai Citycenter, Maharashtra, India",35
+257,Asia,India,West Bengal,Store,Contoso Kolkata Store,On,491-555-0183,491-555-0183,"Citycenter, Kolkata, West Bengal, India‎ ",35
+255,Asia,India,National Capital Territory of Delhi,Store,Contoso New Delhi Store,On,153-555-0166,153-555-0166,"Khan Market, New Delhi,  India",29
+294,Asia,Iran,Tehran,Store,Contoso Tehran No.2 Store,On,775-555-0164,775-555-0164,"Seyfiyeh Davoodiyeh,second street, Tehran, Tehran, Iran",95
+260,Asia,Iran,Tehran,Store,Contoso Tehran No.1 Store,On,325-555-0137,325-555-0137,"Citycenter, Tehran, Tehran, Iran",35
+271,Asia,Japan,Chubu,Store,Contoso Nagoya Store,On,719-555-0181,719-555-0181,"North district  Nagoya,Japan ",50
+270,Asia,Japan,Kansai,Store,Contoso Osaka No.1 Store,On,295-555-0161,295-555-0161,"Downtown,Osaka, Japan",80
+301,Asia,Japan,Kansai,Store,Contoso Osaka No.2 Store,On,380-558-0193,380-558-0193,"Citycenter, BigOne Rd-KuOsakaOsaka, Japan",95
+272,Asia,Japan,Hokkaido,Store,Contoso Sapporo Store,On,125-555-0196,125-555-0196,sapporo Hokkaido northwest district,50
+273,Asia,Japan,Kansai,Store,Contoso Kyoto Store,On,473-555-0117,473-555-0117,Kyoto centre district,50
+269,Asia,Japan,Kanto,Store,Contoso Yokohama Store,On,151-555-0113,151-555-0113,"Citycenter, Kanagawa Prefecture Japan",77
+267,Asia,Japan,Kanto,Store,Contoso Tokyo No.1 Store,On,539-555-0149,539-555-0149,"Shinjuku, Tokyo Citycenter",68
+268,Asia,Japan,Kanto,Store,Contoso Tokyo No.2 Store,On,228-555-0159,228-555-0159,"Citycenter, Shinjuku-kuTokyo, Japan‎",68
+276,Asia,Kyrgyzstan,Chuy Province,Store,Contoso Bishkek Store,On,238-555-0197,238-555-0197,"Biskek shopping mall, Chuskaya Oblast Kyrgyzstan ",50
+265,Asia,Pakistan,Islamabad Capital Territory,Store,Contoso Islamabad No.1 Store,On,306-555-0186,306-555-0186," Islamabad Capital Territory, Pakistan",71
+299,Asia,Pakistan,Islamabad Capital Territory,Store,Contoso Islamabad  No.2 Store,On,1 (11) 500 555-,1 (11) 500 555,"Citycenter, Islamabad Capital Territory, Pakistan",95
+251,Asia,Singapore,Singapore,Store,Contoso Singapore Store,On,842-555-0158,842-555-0158,"Havelock Road Shopping mall, Singapore",27
+274,Asia,South Korea,Seoul-jikhalsi,Store,Contoso Seoul Store,On,370-555-0163,370-555-0163,"Seoul west district ",50
+275,Asia,South Korea,Yeongnam,Store,Contoso Busan Store,On,465-555-0156,465-555-0156,"Korea Citycenter Namchendong, Suyeong-Gu, Busan",50
+261,Asia,Syria,Damascus,Store,Contoso Damascus No.1 Store,On,582-555-0148,582-555-0148,"Nissan Street, Mezze Damascus, Syria",35
+295,Asia,Syria,Damascus,Store,Contoso Damascus No.2 Store,On,1 (11) 500 555-,1 (11) 500 555,"19th Nissan Street, Mezze Damascus, Syria",95
+302,Asia,Taiwan,Taiwan,Store,Contoso Taipei  Store,On,830-555-0128,830-555-0128,"Leidui Shopping mall, Taipei, Taiwan",95
+262,Asia,Thailand,Krung Thep,Store,Contoso Bangkok No.1 Store,On,961-555-0122,961-555-0122,"Bangkok,Citycenter, Thailand",62
+296,Asia,Thailand,Krung Thep,Store,Contoso Bangkok No.2 Store,On,1 (11) 500 555-,1 (11) 500 555,"Bangkok Citycenter, Thailand",95
+298,Asia,Turkmenistan,Ahal Province,Store,Contoso Ashgabat  No.2 Store,On,926-555-0182,926-555-0182,"West Street, Turkmenistan",95
+264,Asia,Turkmenistan,Ahal Province,Store,Contoso Ashgabat No.1 Store,On,521-555-0113,521-555-0113,"Gorogly Street, Turkmenistan",68
+241,Europe,"Denmark       ",Staden Kobenhavn,Store,Contoso Copenhagen Store,On,123-555-0167,123-555-0167,"Ny Carlsbergvej 14 St, Denmark",25
+215,Europe,France,Seine (Paris),Store,Contoso Paris Store,On,139-555-0131,139-555-0131,"Rue de Rivoli Citycenter  Paris, France",12
+309,Europe,France,Seine (Paris),Reseller,Contoso Europe Reseller,On,55-555-0119,55-555-0119,France Shopping Mall,12
+217,Europe,France,"Rhone-Alpes ",Store,Contoso Lyon Store,On,207-555-0192,207-555-0192,"Citycenter Lyon, France",15
+216,Europe,France,Provence-Alpes-Cote d'Azur,Store,Contoso Marseille Store,On,142-555-0139,142-555-0139,"Citycenter Marseille, France",13
+220,Europe,France,Pays de la Loire,Store,Contoso Nantes Store,On,991-555-0184,991-555-0184,"Citycenter Nantes, France",11
+219,Europe,France,Alpes-Maritimes,Store,Contoso Nice Store,On,315-555-0144,315-555-0144,"Citycenter Reims, France",32
+221,Europe,France,Bas-Rhin,Store,Contoso Strasbourg Store,On,310-555-0117,310-555-0117,"Downtown Strasbourg, France",10
+218,Europe,France,Midi-Pyrenees,Store,Contoso Toulouse Store,On,575-555-0126,575-555-0126,"Citycenter  toulouse, France",23
+239,Europe,"Germany ",Bavaria,Store,Contoso Munich Store,On,497-555-0181,497-555-0181,"Citycenter München, Germany",18
+238,Europe,"Germany ",Bavaria,Store,Contoso obamberg Store,On,520-555-0177,520-555-0177,"Citycenter Bamberg, Germany",29
+235,Europe,"Germany ",Rhineland-Palatinate,Store,Contoso Ramstein Store,On,555-555-0113,555-555-0113,"Citycenter Shopping mall Ramstein-Miesenbach, Germany",15
+233,Europe,"Germany ",Rhineland-Palatinate,Store,Contoso Landstuhl Store,On,447-555-0186,447-555-0186,"Citycenter Wallhalben, Germany",21
+234,Europe,"Germany ",North Rhine-Westphalia,Store,Contoso Dusseldorf Store,On,283-555-0185,283-555-0185,"Citycenter, Düsseldorf, Germany",24
+237,Europe,"Germany ",Bavaria,Store,Contoso Giebelstadt Store,On,264-555-0150,264-555-0150,"Citycenter, Giebelstadt, Germany",15
+231,Europe,"Germany ",Hesse,Store,Contoso Hofheim Store,On,405-555-0171,405-555-0171,"Citycenter Hofheim am Taunus, Germany",25
+232,Europe,"Germany ",North Rhine-Westphalia,Store,Contoso koln No.1 Store,On,583-555-0182,583-555-0182,"Citycenter Koln, Germany",35
+230,Europe,"Germany ",North Rhine-Westphalia,Store,Contoso koln No.2 Store,On,916-555-0165,916-555-0165,"Downtown, Koln, Germany",25
+228,Europe,Germany,Berlin,Store,Contoso Berlin Store,On,730-555-0117,730-555-0117,"Downtown Berlin, Germany",13
+306,Europe,Germany,Berlin,Online,Contoso Europe Online Store,On,731-555-0117,731-555-0117,"Downtown Berlin, Germany",7
+236,Europe,"Germany ",Rhineland-Palatinate,Store,Contoso Baumholder Store,On,733-555-0128,733-555-0128,"Shopping Mall Baumholder, Germany",28
+250,Europe,"Greece ",Central Greece and Evvoia,Store,Contoso Athens Store,On,237-555-0128,237-555-0128,NULL,15
+249,Europe,"Ireland ",Leinster,Store,Contoso Dublin Store,On,720-555-0158,720-555-0158,"Pconnell Street Upper Dublin, DUBLIN 1, Ireland",55
+223,Europe,"Italy    ",Venice,Store,Contoso Venezia Store,On,330-555-2568,330-555-2568,NULL,11
+226,Europe,"Italy    ",Lombardia,Store,Contoso Milan Store,On,202-555-0187,202-555-0187,NULL,23
+222,Europe,"Italy    ",Roma,Store,Contoso Roma Store,On,927-555-0150,927-555-0150,NULL,43
+224,Europe,"Italy    ",Province of Florence,Store,Contoso Firenze Store,On,110-555-0112,110-555-0112,NULL,45
+225,Europe,"Italy    ",Province of Turin,Store,Contoso Torino Store,On,931-555-0118,931-555-0118,NULL,24
+248,Europe,Malta,Valletta,Store,Contoso Valletta Store,On,265-555-0195,265-555-0195,"Citycenter, Fgura, Malta",42
+247,Europe,"Poland ",Warszawa,Store,Contoso Warsaw Store,On,680-555-0118,680-555-0118,"Citycenter Warszawa, Poland",15
+303,Europe,Portugal,Lisboa Region,Store,Contoso Lisbon Store,On,290-666-8960,290-666-8960,"Lisbon Citycenter, Lisboa Region",95
+245,Europe,"Romania ",Bucuresti,Store,Contoso Bucharest Store,On,163-555-0147,163-555-0147,"Nan Street Bucharest, Romania",25
+263,Europe,Russia,Moskovskaya oblast,Store,Contoso Moscow  No.1 Store,On,254-555-0114,254-555-0114,"Citycenter, Russia",65
+297,Europe,Russia,Moskovskaya oblast,Store,Contoso Moscow  No.2 Store,On,615-555-0153,615-555-0153,"Russia, 107561 District shopping mall",95
+305,Europe,Russia,Nizhny Novgorod Oblast,Store,Contoso Nizhny Novgorod Store,On,511-555-0119,511-555-0119,"Nizhny Novgorod  Downtown, Shopping mall",95
+304,Europe,Russia,Northwestern,Store,Contoso Saint Petersburg Store,On,510-555-0118,517-555-0118,"Saint Petersburg  Citycenter, Shopping mall",95
+244,Europe,Slovenia,Ljubljana,Store,Contoso Ljubljana Store,On,129-555-0199,129-555-0199,"Citycenter Ljubljana, Slovenia",36
+243,Europe,Spain,Madrid,Store,Contoso Madrid Store,On,166-555-0156,166-555-0156,"Alcobendas Shopping mall MADRID, Spain",35
+242,Europe,"Sweden ",Stockholms,Store,Contoso Stockholm Store,On,208-555-0114,208-555-0114,"Birger Jarlsg Shopping mall, Sweden",33
+246,Europe,"Switzerland ",Bern,Store,Contoso Berne Store,On,590-555-0152,590-555-0152,NULL,53
+240,Europe,the Netherlands,Noord-Holland,Store,Contoso Amsterdam Store,On,230-555-0144,230-555-0144,"Citycenter Shopping mall, Amsterdam (Noord-Holland), Netherlands",26
+209,Europe,United Kingdom,"England ",Store,Contoso Baildon Store,On,138-555-0118,138-555-0118,"West Ln, Baildon, Shipley Citycenter, United",32
+205,Europe,United Kingdom,"England ",Store,Contoso Carlisle Store,On,165-555-0113,165-555-0113,"Citycenter  Botchergate Carlisle, UK",23
+210,Europe,United Kingdom,"England ",Store,Contoso Cheshire Store,On,663-555-0172,663-555-0172,"Market St  Marple, Stockport, Cheshire Citycenter, United Kingdom",NULL
+204,Europe,United Kingdom,England,Store,Contoso York Store,On,848-555-0163,848-555-0163,"Spurriergate York, North Yorkshire Citycenter, United Kingdom",78
+156,Europe,United Kingdom,England,Store,Contoso Cambridge Store,On,594-555-0110,594-555-0110,"8 Story St  Shopping mall    ",26
+214,Europe,United Kingdom,England,Store,Contoso Leeds Store,On,407-555-0165,407-555-0165,"Leeds Citycenter, United Kingdom",25
+201,Europe,United Kingdom,England,Store,Contoso London Store,On,927-555-0168,927-555-0168,"London, W1C 1HG, United Kingdom",17
+212,Europe,United Kingdom,England,Store,Contoso Liverpool Store,On,313-555-0196,313-555-0196,"Leinster Rd Liverpool, Merseyside Citycenter, UK  ",64
+208,Europe,United Kingdom,"England ",Store,Contoso West Yorkshire Store,On,318-555-0137,318-555-0137,"22 Market Sq Shipley, West Yorkshire, BD18 3QJ, United Kingdom",90
+211,Europe,United Kingdom,"England ",Store,Contoso Stockport Store,On,224-555-0187,224-555-0187,"Buxton Rd High Lane, Stockport Citycenter, United Kingdom",34
+206,Europe,United Kingdom,"England ",Store,Contoso Manchester Store,On,869-555-0125,869-555-0125," Windsor Ave Failsworth, Manchester Citycenter, United Kingdom",11
+207,Europe,United Kingdom,"England ",Store,Contoso Lancashire Store,On,393-555-0186,393-555-0186,"Rochdale Rd Todmorden, Lancashire Shopping mall, United Kingdom",36
+213,Europe,United Kingdom,"England ",Store,Contoso Knotty Ash Store,On,785-555-0132,785-555-0132,"East Prescot Road Knotty Ash, Citycenter, United Kingdom",24
+203,Europe,United Kingdom,Scotland,Store,Contoso Glasgow Store,On,289-555-0196,289-555-0196,"Renfrew St Glasgow, Lanarkshire, Citycenter, United Kingdom",26
+202,Europe,United Kingdom,Scotland,Store,Contoso Edinburgh Store,On,296-555-0121,296-555-0121,"Princes St Edinburgh, Midlothian Shopping mall, United Kingdom",25
+287,North America,Canada,Quebec,Store,Contoso Montreal No.1 Store,On,517-555-0117,517-555-0117,"Boulevard Decarie, Montreal Rd, Canada",95
+288,North America,Canada,Quebec,Store,Contoso Montreal No.2 Store,On,922-555-0165,922-555-0165,"De avenue du parc Shopping mall, Montréal, Canada",95
+282,North America,Canada,Ontario,Store,Contoso Ottawa No.1 Store,On,210-555-0193,210-555-0193,"Elgin Street, Ottawa,  Canada",95
+283,North America,Canada,Ontario,Store,Contoso Ottawa No.2 Store,On,210-555-0193,210-555-0193,"Carling Avenue, Ottawa, Canada",95
+284,North America,Canada,Ontario,Store,Contoso Toronto No.1 Store,On,210-555-0193,210-555-0193,"George St, Toronto, Canada",95
+285,North America,Canada,Ontario,Store,Contoso Toronto No.2 Store,On,257-555-0154,257-555-0154,"Chestnut Street, Toronto, Canada",95
+286,North America,Canada,Ontario,Store,Contoso Toronto No.3 Store,On,883-555-0116,883-555-0116," Dundas Street East, Toronto, Canada",95
+289,North America,Canada,British Columbia,Store,Contoso Vancouver  No.1 Store,On,664-555-0112,664-555-0112,"Burrard Street, Vancouver, Canada",95
+290,North America,Canada,British Columbia,Store,Contoso Vancouver  No.2 Store,On,340-555-0193,340-555-0193,"Johnston Street, Vancouver, Canada",95
+22,North America,Canada,British Columbia,Store,Contoso Westminster Store,On,925-555-0114,925-555-0114,"South Central Shopping mall ",22
+291,North America,Canada,Alberta,Store,Contoso Calgary  Store,On,330-555-0120,330-555-0120,"209 4 Avenue Se, Calgary, Canada",95
+16,North America,United States,Washington,Store,Contoso Everett Store,On,508-555-0165,508-555-0165,Riverside  Ave Shopping mall,17
+79,North America,United States,Texas,Store,Contoso Baytown Store,On,119-555-0117,119-555-0117,"Baytown, TX St Shopping mall            ",26
+17,North America,United States,Washington,Store,Contoso Spokane Store,On,984-555-0185,984-555-0185,"Logan Ave  Shopping mall          ",25
+6,North America,United States,Washington,Store,Contoso Yakima Store,On,168-555-0183,168-555-0183,"Yakima, shopping mall",47
+88,North America,United States,Texas,Store,Contoso Cedar Park Store,On,577-555-0185,577-555-0185,"Cedar Park, TX St             ",19
+5,North America,United States,Washington,Store,Contoso Redmond Store,On,612-555-0100,612-555-0100,Downtown shopping mall,33
+15,North America,United States,Washington,Store,Contoso Renton Store,On,424-555-0189,424-555-0189,"Renton,Citycenter",22
+1,North America,United States,Washington,Store,Contoso Seattle No.1 Store,On,320-555-0195,320-555-0195,East Queen Anne Big shopping mall,17
+2,North America,United States,Washington,Store,Contoso Seattle No.2 Store,On,150-555-0189,150-555-0189,Mino shopping mall,25
+308,North America,United States,Washington,Reseller,Contoso North America Reseller,On,55-555-0118,55-555-0118,Seattle Shopping Mall,15
+4,North America,United States,Washington,Store,Contoso Bellevue Store,On,612-555-0100,612-555-0100,West Lake Hills shopping mall,19
+114,North America,United States,New York,Store,Contoso Albany Store,On,697-555-0142,697-555-0142,"N Pine St ",47
+183,North America,United States,Alaska,Store,Contoso Anchorage Store,On,110-555-0115,110-555-0115,"4800 Spenard Road,Shopping mall",47
+191,North America,United States,Maryland,Store,Contoso Annapolis Store,On,908-555-0159,908-555-0159,Cherry Grove Ave Shopping mall,22
+43,North America,United States,Wisconsin,Store,Contoso Appleton Store,On,164-555-0164,164-555-0164,"Appleton, WI Newark St       ",33
+93,North America,United States,Texas,Store,Contoso Arlington Store,On,204-555-0115,204-555-0115,"Central Oaks Shopping mall        ",25
+141,North America,United States,New Jersey,Store,Contoso Atlantic City Store,On,446-555-0118,446-555-0118,"Pacific Ave ",26
+150,North America,United States,Massachusetts,Store,Contoso Attleboro Store,On,589-555-0147,589-555-0147,Thacher Downtown,19
+40,North America,United States,Colorado,Store,Contoso Aurora Store,On,794-555-0159,794-555-0159,"Willow Park Ave     ",25
+86,North America,United States,Texas,Store,Contoso Austin Store,On,172-555-0130,172-555-0130,"Central East Austin St          ",25
+197,North America,United States,Maryland,Store,Contoso Back River Store,On,955-555-0131,955-555-0131,Back River St Shopping mall,33
+81,North America,United States,Texas,Store,Contoso Bacliff Store,On,143-555-0173,143-555-0173,"Bacliff Downtown Shopping mall         ",19
+192,North America,United States,Maryland,Store,Contoso Baltimore Store,On,508-555-0129,508-555-0129,Pleasant St,17
+166,North America,United States,Maine,Store,Contoso Bangor Store,On,201-555-0163,201-555-0163,"Woodland Dr St Shopping mall    ",33
+167,North America,United States,Maine,Store,Contoso Bar Harbor Store,On,746-555-0164,746-555-0164,Ledgelawn Ave,47
+137,North America,United States,New Jersey,Store,Contoso Bayonne Store,On,500-555-0159,500-555-0159,"E 31st St ",47
+78,North America,United States,Texas,Store,Contoso Beaumont No.2 Store,On,808-555-0172,808-555-0172,"Beaumont, TX Downtown     ",25
+76,North America,United States,Texas,Store,Contoso Beaumont No.1 Store,On,896-555-0168,896-555-0168,"Beaumont, Tt Shopping mall                 ",22
+33,North America,United States,Colorado,Store,Contoso Berthoud Store,On,668-555-0130,668-555-0130,"Berthoud, CO St          ",26
+199,North America,United States,Maryland,Online,Contoso North America Online Store,On,450-555-0152,450-555-0152,Marbury St Shopping mall,325
+173,North America,United States,Connecticut,Store,Contoso Bridgeport Store,On,609-555-0153,609-555-0153,Center St,19
+146,North America,United States,Massachusetts,Store,Contoso Boston Store,On,615-555-0110,615-555-0110,"Channel Center St ",17
+37,North America,United States,Colorado,Store,Contoso Boulder Store,On,937-555-0137,937-555-0137,"Transit Village Broadway      ",47
+121,North America,United States,New York,Store,Contoso Brooklyn Store,On,158-555-0191,158-555-0191,"Flatbush Ave St ",47
+52,North America,United States,Wisconsin,Store,Contoso Burlington Store,On,639-555-0164,639-555-0164,"Burlington, WI St shopping mall ",47
+113,North America,United States,Florida,Store,Contoso Cape Canaveral Store,On,260-555-0119,260-555-0119,Astronaut Blvd St,33
+145,North America,United States,New Jersey,Store,Contoso Cape May Store,On,615-555-0110,615-555-0110,"Delaware Ave St ",22
+28,North America,United States,Colorado,Store,Contoso Castle Rock Store,On,115-555-0179,115-555-0179,"Castle Rock Downtown              ",33
+190,North America,United States,South Carolina,Store,Contoso Charleston Store,On,552-555-0111,552-555-0111,Rockingham St Shopping mall,47
+186,North America,United States,Virginia,Store,Contoso Charlottesville Store,On,751-555-0134,751-555-0134,Grady Ave StShopping mall,25
+11,North America,United States,Washington,Store,Contoso Cle Elum Store,On,849-555-0139,849-555-0139,"Cle Elum, Citycenter",26
+134,North America,United States,New Jersey,Store,Contoso Clifton Store,On,417-555-0154,417-555-0154,Kowal Downtown,26
+90,North America,United States,Texas,Store,Contoso Dallas Store,On,986-555-0177,986-555-0177,"Dallas Citycenter Shopping mall      ",47
+176,North America,United States,Connecticut,Store,Contoso Darien Store,On,438-555-0172,438-555-0172,"Lakeside Ave Shopping mall    ",22
+98,North America,United States,Texas,Store,Contoso Denton Store,On,913-555-0184,913-555-0184,"Denton Citycenter Shopping mall    ",47
+34,North America,United States,Colorado,Store,Contoso Denver No.1 Store,On,609-555-0179,609-555-0179,"Coors Field 17th St           ",26
+35,North America,United States,Colorado,Store,Contoso Denver No.2 Store,On,952-555-0178,952-555-0178,"West Highland Borden Ave    ",19
+36,North America,United States,Colorado,Store,Contoso Denver No.3 Store,On,943-555-0196,943-555-0196,"Wellshire St    ",33
+95,North America,United States,Texas,Store,Contoso Desoto Store,On,935-555-0116,935-555-0116,"Desoto, TX Shopping mall       ",26
+135,North America,United States,New Jersey,Store,Contoso East Orange Store,On,935-555-0199,935-555-0199,N Arlington Ave,19
+53,North America,United States,Wisconsin,Store,Contoso East Troy Store,On,191-555-0112,191-555-0112,"East Troy, DW St Shopping mall        ",22
+63,North America,United States,Wisconsin,Store,Contoso Edgerton Store,On,679-555-0113,679-555-0113,"Edgerton, WI Broadway      ",25
+126,North America,United States,New York,Store,Contoso Elmira Store,On,139-555-0120,139-555-0120,Columbia St,26
+20,North America,United States,Colorado,Store,Contoso Englewood Store,On,435-555-0113,435-555-0113,"Cherry Hills Village Shopping mall               ",33
+14,North America,United States,Washington,Store,Contoso Fall City Store,On,819-555-0175,819-555-0175,"Fall City, Citycenter",47
+163,North America,United States,Massachusetts,Store,Contoso Falmouth Store,On,429-555-0137,429-555-0137,"Shore Citycenter Shopping mall    ",25
+46,North America,United States,Wisconsin,Store,Contoso Fond du Lac Store,On,992-555-0194,992-555-0194,"Fond du Lac Shopping mall    ",17
+64,North America,United States,Wisconsin,Store,Contoso Fort Atkinson Store,On,688-555-0192,688-555-0192,Fort Atkinson Citycenter,26
+30,North America,United States,Colorado,Store,Contoso Fort Collins Store,On,656-555-0119,656-555-0119,"Old Town West ST              ",22
+109,North America,United States,Florida,Store,Contoso Fort Lauderdale Store,On,582-555-0178,582-555-0178,"G Harold Martin Downtown        ",25
+99,North America,United States,Texas,Store,Contoso Fort Worth Store,On,148-555-0145,148-555-0145,"Amon Carter Museum St          ",22
+155,North America,United States,Massachusetts,Store,Contoso Framingham Store,On,182-555-0134,182-555-0134,29 Woodlan St,25
+187,North America,United States,Virginia,Store,Contoso Fredericksburg Store,On,319-555-0126,319-555-0126,Beverly St Shopping mall,26
+91,North America,United States,Texas,Store,Contoso Georgetown Store,On,777-555-0141,777-555-0141,"Georgetown St         ",22
+55,North America,United States,Maryland,Store,Contoso Germantown Store,On,712-555-0119,712-555-0119,"Germantown, DEI St Shopping mall     ",25
+198,North America,United States,Maryland,Store,Contoso North Harford Store,On,817-555-0186,817-555-0186,Wisteria St Shopping mall,47
+23,North America,United States,Colorado,Store,Contoso Grand Junction Store,On,913-555-0196,913-555-0196,Grand Junction Downtown,17
+94,North America,United States,Texas,Store,Contoso Grand Prairie Store,On,845-555-0184,845-555-0184,"Grand Prairie, TX  Downtown                   ",25
+7,North America,United States,Washington,Store,Contoso Granger Store,On,913-555-0172,913-555-0172,"Granger, WA Downtown shopping mall",22
+25,North America,United States,Colorado,Store,Contoso Greeley  No.1 Store,On,332-555-0150,332-555-0150," W 29th Street, Greeley CityCenter  ",25
+31,North America,United States,Colorado,Store,Contoso Greeley No.2 Store,On,138-555-0128,138-555-0128,"Greeley  Downtown Shopping mall           ",17
+42,North America,United States,Wisconsin,Store,Contoso Green Bay Store,On,286-555-0189,286-555-0189,"Green Bay Downtown        ",19
+189,North America,United States,South Carolina,Store,Contoso Greenville Store,On,517-555-0122,517-555-0122,Lavinia St Shopping mall,33
+140,North America,United States,New Jersey,Store,Contoso Hackensack Store,On,352-555-0138,352-555-0138,237 State St,25
+172,North America,United States,Connecticut,Store,Contoso Hartford Store,On,117-555-0185,117-555-0185,"Asylum St Shopping mall    ",26
+158,North America,United States,Massachusetts,Store,Contoso Haverhill Store,On,368-555-0113,368-555-0113,"Hilldale Ave St ",19
+92,North America,United States,Texas,Store,Contoso Hillsboro Store,On,818-555-0128,818-555-0128,"Hillsboro, TX Ward                ",17
+153,North America,United States,Massachusetts,Store,Contoso Hingham Store,On,696-555-0157,696-555-0157,"Crowes Ln St ",22
+143,North America,United States,New Jersey,Store,Contoso Hoboken Store,On,110-555-0182,110-555-0182,322 8th St,33
+161,North America,United States,Massachusetts,Store,Contoso Holyoke Store,On,819-555-0198,819-555-0198,"Old Jarvis Ave ",22
+66,North America,United States,Texas,Store,Contoso Houston No.1 Store,On,901-555-0125,901-555-0125,"Texas Houston Freeman St             ",33
+67,North America,United States,Texas,Store,Contoso Houston No.2 Store,On,434-555-0133,434-555-0133,"Texas Houston Ryon St                ",47
+68,North America,United States,Texas,Store,Contoso Houston No.3 Store,On,226-555-0197,226-555-0197,"Texas Houston Brewster St       ",22
+69,North America,United States,Texas,Store,Contoso Houston No.4 Store,On,623-555-0155,623-555-0155,"Texas Houston Sakowitz St            ",17
+193,North America,United States,Maryland,Store,Contoso Howard Store,On,167-555-0139,167-555-0139,River Valley Chase St Shopping mall,25
+123,North America,United States,New York,Store,Contoso Ithaca Store,On,361-555-0180,361-555-0180,Cascadilla Ave St,17
+103,North America,United States,Florida,Store,Contoso Jacksonville Store,On,454-555-0119,454-555-0119,Lackawanna Park St,26
+132,North America,United States,New Jersey,Store,Contoso Jersey City Store,On,205-555-0132,205-555-0132,76 Boyd Ave St,25
+168,North America,United States,Maine,Store,Contoso Kennebunkport Store,On,587-555-0115,587-555-0115,"School St ",22
+3,North America,United States,Washington,Store,Contoso Kennewick Store,On,212-555-0187,212-555-0187,"Kennewick,  Downtown",26
+80,North America,United States,Texas,Store,Contoso La Porte Store,On,420-555-0173,420-555-0173,"La Porte, TXS Shopping mall             ",26
+27,North America,United States,Colorado,Store,Contoso Lafayette Store,On,113-555-0173,113-555-0173,"Lafayette Downtown               ",19
+108,North America,United States,Florida,Store,Contoso Lakeland Store,On,477-555-0132,477-555-0132,N Missouri Ave,17
+152,North America,United States,Massachusetts,Store,Contoso Leominster Store,On,678-555-0110,678-555-0110,"101 Union St Shopping mall    ",47
+169,North America,United States,Maine,Store,Contoso Lewiston Store,On,140-555-0132,140-555-0132,50 Kevin St,17
+97,North America,United States,Texas,Store,Contoso Lewisville Store,On,920-555-0177,920-555-0177,"Lewisville, Edeg ST Shopping mall    ",33
+178,North America,United States,Connecticut,Store,Contoso Litchfield County Store,On,164-555-0114,164-555-0114,"CTuDED Rd, Litchfield County",25
+39,North America,United States,Colorado,Store,Contoso Littleton Store,On,963-555-0134,963-555-0134,"Littleton, Citycenter ",17
+75,North America,United States,Texas,Store,Contoso Longview Store,On,309-555-0129,309-555-0129,"Longview, SDallas St  Shopping mall              ",47
+26,North America,United States,Colorado,Store,Contoso Loveland Store,On,166-555-0162,166-555-0162,"Loveland Downtown          ",26
+151,North America,United States,Massachusetts,Store,Contoso Lowell Store,On,181-555-0124,181-555-0124,Gorham Citycenter,33
+159,North America,United States,Massachusetts,Store,Contoso Lynn Store,On,869-555-0119,869-555-0119,Congress Rd,33
+60,North America,United States,Wisconsin,Store,Contoso Madison Store,On,499-555-0125,499-555-0125,"Dudgeon-Monroe Shopping mall   ",47
+59,North America,United States,Wisconsin,Store,Contoso Manitowoc Store,On,714-555-0138,714-555-0138,"Manitowoc, DAWI St Shopping mall           ",33
+74,North America,United States,Texas,Store,Contoso Marshall Store,On,248-555-0134,248-555-0134,"Marshall, TX Shopping mall         ",33
+188,North America,United States,Virginia,Store,Contoso Martinsville Store,On,809-555-0133,809-555-0133,Monroe St,19
+44,North America,United States,Wisconsin,Store,Contoso Menasha Store,On,685-555-0120,685-555-0120,"Menasha, WI Shopping mall         ",47
+101,North America,United States,Florida,Store,Contoso Miami No.1 Store,On,199-555-0117,199-555-0117,FLW Flagler St,17
+102,North America,United States,Florida,Store,Contoso Miami No.2 Store,On,391-555-0138,391-555-0138,NW 8th St,25
+70,North America,United States,Texas,Store,Contoso Midland Store,On,611-555-0116,611-555-0116,"West Way St      ",25
+32,North America,United States,Colorado,Store,Contoso Milliken Store,On,523-555-0175,523-555-0175,"Milliken Downtown                 ",25
+47,North America,United States,Wisconsin,Store,Contoso Milwaukee No.1 Store,On,818-555-0192,818-555-0192,"Havenwoods St         ",25
+49,North America,United States,Wisconsin,Store,Contoso Milwaukee No.3 Store,On,778-555-0141,778-555-0141,"Lincoln Village St          ",26
+72,North America,United States,Texas,Store,Contoso Minden Store,On,612-555-0171,612-555-0171,"Minden, LA  Downtown                    ",26
+142,North America,United States,New Jersey,Store,Contoso Montclair Store,On,955-555-0169,955-555-0169,"Valley St ",19
+128,North America,United States,New Jersey,Store,Contoso Trenton No.1 Store,On,350-555-0167,350-555-0167,241 E State St,33
+18,North America,United States,Washington,Store,Contoso Veradale Store,On,632-555-0129,632-555-0129,"Veradale, Citycenter",26
+138,North America,United States,New Jersey,Store,Contoso Vineland Store,On,984-555-0148,984-555-0148,"W Cherry St ",22
+181,North America,United States,Virginia,Store,Contoso Virginia Beach Store,On,753-555-0129,753-555-0129,Atlantic Shopping mall,19
+10,North America,United States,Washington,Store,Contoso Wapato Store,On,145-555-0130,145-555-0130,"Wapato, Citycenter",25
+174,North America,United States,Connecticut,Store,Contoso Waterbury Store,On,238-555-0116,238-555-0116,"192 Bank St Shopping mall    ",33
+54,North America,United States,Wisconsin,Store,Contoso Waukesha No.2 Store,On,669-555-0150,669-555-0150,"Waukesha, WI 8th Ave         ",17
+50,North America,United States,Wisconsin,Store,Contoso Waukesha No.1 Store,On,299-555-0113,299-555-0113,"Waukesha,  Water St           ",19
+21,North America,United States,Colorado,Store,Contoso Wheat Ridge Store,On,202-555-0151,202-555-0151,"Wheat Ridge, CityCenter              ",47
+182,North America,United States,Virginia,Store,Contoso Winchester Store,On,654-555-0177,654-555-0177,Handley St Shopping mall,33
+147,North America,United States,Massachusetts,Store,Contoso Worcester No.1 Store,On,441-555-0195,441-555-0195,"99 Central St ",25
+41,North America,United States,Colorado,Store,Contoso Parker Store,On,218-555-0126,218-555-0126,"Parker, CO  Shopping mall",26
+196,North America,United States,Maryland,Store,Contoso Parkville Store,On,949-555-0174,949-555-0174,Parkville St Shopping mall,19
+83,North America,United States,Texas,Store,Contoso Pasadena Store,On,314-555-0113,314-555-0113,"Pasadena, TX St Shopping mall        ",47
+136,North America,United States,New Jersey,Store,Contoso Passaic Store,On,180-555-0136,180-555-0136,190 Paulison Ave,33
+133,North America,United States,New Jersey,Store,Contoso Paterson Store,On,653-555-0144,653-555-0144,Federal Plaza St,26
+100,North America,United States,Texas,Store,Contoso Plano Store,On,148-555-0145,148-555-0145,"City North St         ",17
+120,North America,United States,New York,Store,Contoso Plattsburgh Store,On,727-555-0112,727-555-0112,"Brinkerhoff St ",33
+127,North America,United States,New York,Store,Contoso Poestenkill Store,On,712-555-0113,712-555-0113,Rensselaer County St,19
+57,North America,United States,Wisconsin,Store,Contoso Port Washington Store,On,910-555-0116,910-555-0116,"Port Washington, WIMI St Shopping mall          ",26
+164,North America,United States,Massachusetts,Store,Contoso Provincetown Store,On,181-555-0156,181-555-0156,Alden St,26
+195,North America,United States,Maryland,Store,Contoso Queen Anne's County Store,On,106-555-0120,106-555-0120,Tilghman Neck St Shopping mall,26
+125,North America,United States,New York,Store,Contoso Queens Store,On,150-555-0194,150-555-0194,St Johns Downtown,25
+154,North America,United States,Massachusetts,Store,Contoso Quincy Store,On,870-555-0122,870-555-0122,"Thomas E Burgin St ",17
+51,North America,United States,Wisconsin,Store,Contoso Racine No.1 Store,On,846-555-0157,846-555-0157,Racine shopping mall,33
+65,North America,United States,Wisconsin,Store,Contoso Racine No.2 Store,On,518-555-0199,518-555-0199,"Racine, Big Shopping mall   ",19
+96,North America,United States,Texas,Store,Contoso Richardson Store,On,208-555-0114,208-555-0114,"Richardson Downtown Shopping mall           ",19
+194,North America,United States,Maryland,Store,Contoso Ridgely Store,On,310-555-0133,310-555-0133,"Deerfield St ",25
+185,North America,United States,Virginia,Store,Contoso Roanoke Store,On,559-555-0175,559-555-0175,Salem Ave SE StShopping mall,17
+116,North America,United States,New York,Store,Contoso Rochester No.1 Store,On,147-555-0179,147-555-0179,Madison St,17
+124,North America,United States,New York,Store,Contoso Rochester No.2 Store,On,510-555-0121,510-555-0121,Canal St,25
+89,North America,United States,Texas,Store,Contoso Round Rock Store,On,373-555-0142,373-555-0142,"Egger Acres St               ",33
+71,North America,United States,Texas,Store,Contoso Russellville Store,On,793-555-0179,793-555-0179,"Russellville, AR St             ",25
+87,North America,United States,Texas,Store,Contoso San Antonio Store,On,970-555-0118,970-555-0118,"City North Region Downtown                 ",26
+107,North America,United States,Florida,Store,Contoso Sebring Store,On,166-555-0159,166-555-0159,"601-669 N Ping St ",22
+58,North America,United States,Wisconsin,Store,Contoso Sheboygan Store,On,319-555-0139,319-555-0139,"Sheboygan, WIAmsterdam Ave     ",19
+73,North America,United States,Texas,Store,Contoso Shreveport Store,On,522-555-0147,522-555-0147,"Texas Houston 1300 Baker St               ",19
+13,North America,United States,Washington,Store,Contoso Snoqualmie Store,On,122-555-0189,122-555-0189,"Snoqualmie, Citycenter",33
+157,North America,United States,Massachusetts,Store,Contoso Somerville Store,On,587-555-0114,587-555-0114,Pembroke St,26
+171,North America,United States,Maine,Store,Contoso South Portland Store,On,990-555-0172,990-555-0172,"Robert Mills St ",25
+85,North America,United States,Texas,Store,Contoso Spring Store,On,153-555-0186,153-555-0186,"Arthur Bayer Park St    ",17
+8,North America,United States,Washington,Store,Contoso Sunnyside Store,On,913-555-0172,913-555-0172,"Sunnyside, WA Citycenter",17
+118,North America,United States,New York,Store,Contoso Syracuse Store,On,234-555-0169,234-555-0169,"520 Pearl St ",26
+104,North America,United States,Florida,Store,Contoso Tallahassee No.1 Store,On,200-555-0117,200-555-0117,Woodland Drives St,19
+105,North America,United States,Florida,Store,Contoso Tallahassee No.2 Store,On,768-555-0123,768-555-0123,Thomasville Rd,33
+111,North America,United States,Florida,Store,Contoso Tampa Store,On,531-555-0183,531-555-0183,"E Columbus Downtown        ",26
+82,North America,United States,Texas,Store,Contoso Texas City Store,On,815-555-0138,815-555-0138,"Texas City, TX St Shopping mall               ",33
+38,North America,United States,Colorado,Store,Contoso Thornton Store,On,333-555-0173,333-555-0173,"Shopping mall, Citycenter",22
+9,North America,United States,Washington,Store,Contoso Toppenish Store,On,903-555-0145,903-555-0145,"Toppenish, Citycenter",25
+144,North America,United States,New Jersey,Store,Contoso Morristown Store,On,646-555-0185,646-555-0185,Washington St,47
+165,North America,United States,Massachusetts,Store,Contoso Nantucket Store,On,810-555-0178,810-555-0178,8 Washington St,19
+227,North America,United States,Florida,Store,Contoso Naples Store,On,492-555-0174,492-555-0174,"Downtown Naples, Florida",13
+149,North America,United States,Massachusetts,Store,Contoso New Bedford Store,On,965-555-0155,965-555-0155,Palmer CityCenter,26
+139,North America,United States,New Jersey,Store,Contoso New Brunswick Store,On,533-555-0111,533-555-0111,"Suydam St ",17
+24,North America,United States,Colorado,Store,Contoso New Castle Store,On,413-555-0136,413-555-0136,"New Castle CityCenter                 ",25
+177,North America,United States,Connecticut,Store,Contoso New Haven Store,On,118-555-0177,118-555-0177,Lynwood PI Downtown,17
+179,North America,United States,Connecticut,Store,Contoso New London Store,On,156-555-0199,156-555-0199,Jefferson Ave,26
+115,North America,United States,New York,Store,Contoso New York No.1 Store,On,571-555-0179,571-555-0179,"W 40th St ",22
+117,North America,United States,New York,Store,Contoso New York No.2 Store,On,540-555-0191,540-555-0191,Kips Bay St,25
+130,North America,United States,New Jersey,Store,Contoso Newark No.1 Store,On,119-555-0192,119-555-0192,Halsey St,22
+131,North America,United States,New Jersey,Store,Contoso Newark No.2 Store,On,200-555-0112,200-555-0112,Edison PI St,17
+180,North America,United States,Virginia,Store,Contoso Norfolk Store,On,712-555-0170,712-555-0170,Wide St Shopping mall,26
+200,North America,United States,Maryland,Catalog,Contoso Catalog Store,On,278-555-0118,278-555-0118,North Harford St Shopping mall,120
+160,North America,United States,Massachusetts,Store,Contoso Northampton Store,On,806-555-0136,806-555-0136,"Florence Rd Shopping mall    ",47
+175,North America,United States,Connecticut,Store,Contoso Old Saybrook Store,On,100-555-0174,100-555-0174,18 W King Rd,47
+77,North America,United States,Texas,Store,Contoso Orange Store,On,999-555-0155,999-555-0155,"Orange Citycenter Shopping mall         ",17
+61,North America,United States,Wisconsin,Store,Contoso Oregon Store,On,932-555-0161,932-555-0161,"Oregon, EQI St  Shopping mall   ",22
+110,North America,United States,Florida,Store,Contoso Orlando Store,On,476-555-0119,476-555-0119,1400-1598 FL-50 St,25
+170,North America,United States,Maine,Store,Contoso Orono Store,On,309-555-0170,309-555-0170,"Pleasant St ",25
+45,North America,United States,Wisconsin,Store,Contoso Oshkosh Store,On,786-555-0144,786-555-0144,"Oshkosh, WI Broadway        ",22
+122,North America,United States,New York,Store,Contoso Oswego Store,On,785-555-0110,785-555-0110,East River St,22
