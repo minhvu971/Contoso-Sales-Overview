@@ -7,6 +7,8 @@ Step 2: Query data from datawarehouse and process data by SQL Server.
 
 Step 3: Import exported data (CSV file) into PowerBI to Analyze, Report and Extract Insights.
 
+- Language: SQL Server.
+- Tool: PowerBI, Excel.
 
 **Note: Do bộ Data quá lớn khiến cho file PowerBI quá lớn nên em không thể upload lên Github. Vì vậy em đã chia nhỏ làm 3 file RAR, mong mọi người khi xem nhớ tải về cả 3 file rồi mới giải nén.
 
