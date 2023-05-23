@@ -10,6 +10,6 @@ Step 3: Import exported data (CSV file) into PowerBI to Analyze, Report and Extr
 - Language: SQL Server.
 - Tool: PowerBI, Excel.
 
-**Note: Do bộ Data quá lớn khiến cho file PowerBI quá lớn nên em không thể upload lên Github. Vì vậy em đã chia nhỏ làm 3 file RAR, mong mọi người khi xem nhớ tải về cả 3 file rồi mới giải nén.
+**Note: Do bộ Data quá lớn khiến cho file PowerBI quá lớn nên em không thể upload lên Github. Vì vậy em đã chia nhỏ làm 3 file RAR, mong mọi người khi xem nhớ tải về cả 3 file rồi mới giải nén. Hoặc mọi người có thể tải thông qua link Drive: https://drive.google.com/file/d/1f7dilbq4M3KjM3inNIZ4O9vGO19meags/view?usp=sharing
 
 # Em xin cảm ơn!
