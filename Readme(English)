@@ -1,0 +1,21 @@
+# Contoso-Sales-Overview (English)
+Hello! My name is Minh Vu. With my passion for Data Science, I am determined to pursue the short-term goal of becoming a professional Data Analyst who can show 
+Business Insights for businesses. In the long term, I want to become a Master in Data Science. 
+And on my way to realize my dream, I found the Dataset of Contoso - A multinational corporation with headquarters in France that is manufacturing and distributing 
+more than 10000 products in the international market. 
+Although this Dataset is a bit old, from 2007 to 2009, it is certainly a typical case in finding Business Insights. Here's how I did the analysis:
+
+Step 1: Cleaning data by Excel.
+
+Step 2: Query data from datawarehouse and process data by SQL Server.
+
+Step 3: Import exported data (CSV file) into PowerBI to Analyze, Report and Extract Insights.
+
+- Language: SQL Server.
+- Tools: PowerBI, Excel.
+
+**Note: Because the Dataset is too large, therefore the PowerBI file is too large, so I can't upload it to Github. So I've split it into 3 RAR files, 
+hope everyone remembers to download all 3 files before extracting. 
+Or you can download it through the Drive link: https://drive.google.com/file/d/1f7dilbq4M3KjM3inNIZ4O9vGO19meags/view?usp=sharing
+
+# Thank you!
